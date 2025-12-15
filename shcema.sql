@@ -46,6 +46,6 @@ VALUES (
     'Admin', 
     'User', 
     'admin@project2.com', 
-    '$2y$10$bsORkq7zOXzQFx2OOun3lOWNHQFNhcPNLfoXiSf3y9MZX2JX2.Jea', 
+    '$2y$10$t41lK8C1L33x46esklNb8OHDJzxhM.yQudJtVemAuQwmJ/2fY2xyq', 
     'Admin'
 );
